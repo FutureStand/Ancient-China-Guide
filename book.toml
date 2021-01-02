@@ -1,9 +1,5 @@
 [book]
 authors = ["yaesey"]
+language = "en"
 multilingual = false
 src = "src"
-description = "穿越古代中国生存技术指导手册"
-
-[build]
-build-dir = "docs"
-create-missing = false
