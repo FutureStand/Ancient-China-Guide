@@ -10,15 +10,13 @@
     - [元](intro/yuan.md)
     - [明](intro/ming.md)
     - [清(1840年前)](intro/qing-early.md)
-
-- [农业、出行](live/intro.md)
-
-- [商业、经济](shang/intro.md)
-
+- [历法礼仪] (date/intro.md)
+- [农业](live/intro.md)
+- [科技技术](tech/intro.md)
+- [军事技术](army/intro.md)
+- [音乐绘画](art/intro.md)
+- [文学](literature/intro.md)
 - [建筑](building/intro.md)
-
-- [服饰](cloths/intro.md)
-
-- [礼仪、政治活动](policy/intro.md)
-
+- [政治宗法](policy/intro.md)
+- [宗教](religion/intro.md)
 - [TODO](todo/something-should-be-done.md)
