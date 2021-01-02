@@ -1,0 +1,5 @@
+[book]
+authors = ["yaesey"]
+multilingual = false
+src = "src"
+description = "穿越古代中国生存技术指导手册"
